@@ -1,0 +1,12 @@
+Pixel 0 brightness increased to 60
+Pixel 1 brightness increased to 70
+Pixel 2 brightness increased to 80
+Pixel 3 brightness increased to 90
+Pixel 4 brightness increased to 100
+
+Processed Pixel Values:
+60
+70
+80
+90
+100
